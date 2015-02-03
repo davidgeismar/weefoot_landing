@@ -1,0 +1,178 @@
+#fake-navbar
+{
+  border-bottom: solid 1px rgb(1, 1, 51);
+  height: 60px;
+  img{
+
+      display: block;
+      margin: 0 auto;
+      height: 3em;
+      padding-top:  10px;
+    }
+}
+
+
+#banner
+{
+  //height: 500px;
+  background-image: image-url("img-banner-landingpage-ws.jpg");
+  background-position:center center;
+  background-size: cover;
+  }
+
+#margin-top-banner
+{
+  margin-top: 60px;
+  font-size: 2.5em;
+
+}
+
+#store-img
+{
+  img{
+    display: inline-block;
+  }
+}
+.store-img-size
+{
+  width:150px;
+  height: 60px;
+  display: block;
+  margin-top: 50px;
+}
+
+.size_img_app
+  {
+    width: 350px;
+    height: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+#btn-connexion
+{
+  width:280px;
+//  margin-left: 60px;
+  margin-top: 20px;
+}
+
+#app_description
+{
+
+// height: 500px;
+  background-color: $blue;
+  padding-top: 50px;
+
+    h3{
+      color: rgb(1, 1, 51);
+  }
+}
+
+.fa
+{
+  padding: 20px;
+  font-size: 2em;
+}
+
+#team_wefoot
+{
+  color: rgb(1, 1, 51);
+
+  p
+  {
+    text-align: center;
+  }
+}
+
+.founder_picture
+{
+  border-radius: 50%;
+  width:10em;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+
+}
+
+#commentaire_presse
+{
+background-color: rgb(1, 1, 51);
+//height: 400px;
+
+    p
+    {
+      margin: 110px;
+    }
+}
+
+#contact_form
+{
+ // height: 500px;
+  background-color: #CCCCFF;
+  h3
+  {
+    color: rgb(1, 1, 51);
+  }
+}
+
+#message_form
+{
+  width: 30em;
+  height: 20em;
+}
+
+form
+{
+  padding: 10px;
+}
+
+.special-name
+{
+  color: $blue;
+}
+
+#logo
+{
+  border-top: solid 1px rgb(1, 1, 51);
+    img{
+      display:block;
+      margin: 0 auto;
+      height: 70px;
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color:rgb(1, 1, 51);
+      margin-bottom: 25px;
+    }
+}
+
+.fadeIn {
+  opacity: 0;
+  animation: fadeIn 10s 0.5s ease forwards;
+  -webkit-animation: fadeIn 10s 0.5s ease forwards;
+  -moz-animation: fadeIn 10s 0.5s ease forwards;
+}
+
+@keyframes fadeIn {
+  /* your animation code */
+
+}
+@-webkit-keyframes fadeIn {
+  /* your animation code */
+}
+@-moz-keyframes fadeIn {
+  /* your animation code */
+}
+
+.popover {
+   text-align: center;
+
+         /* Here you can design your popover divs */
+}
+
+.popover img {
+  width: 80%;
+}
+
