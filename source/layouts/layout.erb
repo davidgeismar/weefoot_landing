@@ -13,40 +13,33 @@
     <%= javascript_include_tag  "all" %>
   </head>
 
-<body>
+  <body>
 
 
 
-    <%= yield %>
+      <%= yield %>
 
-  <div id= "footer">
-    <div class="container">
-      <div class="row">
-        <h3 class="text-center">Restez connecté </h3>
-           <div class="col-xs-12 col-sm-6">
-            <p> Recevez toute l'actualité de Wefoot</p>
-              <form action="">
-                <input type="email" placeholder="Votre addresse e-mail">
-              </form>
-            </div>
-
+    <div id= "footer">
+      <div class="container">
+        <div class="row">
+          <h3 class="text-center">Restez connecté </h3>
           <div class="col-xs-12 col-sm-6">
+           <a href="">
+            <i class="fa fa-youtube-square"></i>
+            </a>
+            <a href="">
+            <i class="fa fa-instagram"></i>
+            </a>
+            <a href="">
+            <i class="fa fa-facebook-square"></i>
+            </a>
              <a href="">
-              <i class="fa fa-youtube-square"></i>
-              </a>
-              <a href="">
-              <i class="fa fa-instagram"></i>
-              </a>
-              <a href="">
-              <i class="fa fa-facebook-square"></i>
-              </a>
-               <a href="">
-              <i class="fa fa-twitter-square"></i>
-              </a>
-            </div>
+            <i class="fa fa-twitter-square"></i>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
 
   </body>
 </html>
