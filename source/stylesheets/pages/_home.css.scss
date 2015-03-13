@@ -1,3 +1,17 @@
+
+#ballon {
+  margin-top: 40px;
+}
+#mc_embed_signup {
+   clear:left;
+   font:14px Helvetica,Arial,sans-serif;
+ }
+
+#mailchimp-form {
+  color: black;
+
+}
+
 #fake-navbar
 {
   border-bottom: solid 1px rgb(1, 1, 51);
@@ -70,7 +84,8 @@
 
 .fa
 {
-  padding: 20px;
+  margin-right: 25px;
+  // padding: 20px;
   font-size: 2em;
 }
 
@@ -94,26 +109,7 @@
 
 }
 
-#commentaire_presse
-{
-background-color: rgb(1, 1, 51);
-//height: 400px;
 
-    p
-    {
-      margin: 110px;
-    }
-}
-
-#contact_form
-{
- // height: 500px;
-  background-color: #CCCCFF;
-  h3
-  {
-    color: rgb(1, 1, 51);
-  }
-}
 
 #message_form
 {
@@ -129,6 +125,10 @@ form
 .special-name
 {
   color: $blue;
+}
+
+#restez {
+  padding-bottom: 40px;
 }
 
 #logo
