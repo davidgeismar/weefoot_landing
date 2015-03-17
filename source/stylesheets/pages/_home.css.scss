@@ -12,6 +12,9 @@
 
 }
 
+.color-para {
+  color: black;
+}
 #fake-navbar
 {
   border-bottom: solid 1px rgb(1, 1, 51);
@@ -74,7 +77,7 @@
 {
 
 // height: 500px;
-  background-color: $blue;
+  background-color: rgb(229, 243, 252);;
   padding-top: 50px;
 
     h3{
@@ -148,6 +151,10 @@ form
     }
 }
 
+.description-jeu-concours {
+  font-size: 25px;
+  padding-bottom: 80px;
+}
 .fadeIn {
   opacity: 0;
   animation: fadeIn 10s 0.5s ease forwards;
