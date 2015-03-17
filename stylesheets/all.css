@@ -8908,31 +8908,31 @@ button.close {
 body {
   color: white; }
 
-/* line 2, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
+/* line 4, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
 #footer {
   background: #010133;
   padding: 30px 0;
   color: gainsboro; }
-  /* line 6, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
+  /* line 8, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
   #footer input {
     width: 15em; }
 
-/* line 12, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
+/* line 14, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
 #footer p {
   margin-top: 17px; }
 
-/* line 17, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
+/* line 19, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
 #footer ul {
   margin-top: 10px; }
 
-/* line 20, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
+/* line 22, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
 #footer a {
   color: gainsboro;
   font-size: 20px;
   letter-spacing: 20px;
   transition: color 0.5s ease; }
 
-/* line 26, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
+/* line 28, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/layout/_footer.css.scss */
 #footer a:hover {
   color: red; }
 
@@ -9105,110 +9105,119 @@ body {
   color: black; }
 
 /* line 15, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+.color-para {
+  color: black; }
+
+/* line 18, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #fake-navbar {
   border-bottom: solid 1px #010133;
   height: 60px; }
-  /* line 19, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+  /* line 22, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
   #fake-navbar img {
     display: block;
     margin: 0 auto;
     height: 3em;
     padding-top: 10px; }
 
-/* line 29, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 32, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #banner {
   background-image: url("../images/img-banner-landingpage-ws.jpg");
   background-position: center center;
   background-size: cover; }
 
-/* line 37, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 40, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #margin-top-banner {
   margin-top: 60px;
   font-size: 2.5em; }
 
-/* line 46, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 49, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #store-img img {
   display: inline-block; }
 
-/* line 50, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 53, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .store-img-size {
   width: 150px;
   height: 60px;
   display: block;
   margin-top: 50px; }
 
-/* line 58, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 61, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .size_img_app {
   width: 350px;
   height: 400px;
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 66, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 69, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #btn-connexion {
   width: 280px;
   margin-top: 20px; }
 
-/* line 73, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 76, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #app_description {
-  background-color: #0099FF;
+  background-color: #e5f3fc;
   padding-top: 50px; }
-  /* line 80, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+  /* line 83, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
   #app_description h3 {
     color: #010133; }
 
-/* line 85, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 88, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .fa {
   margin-right: 25px;
   font-size: 2em; }
 
-/* line 92, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 95, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #team_wefoot {
   color: #010133; }
-  /* line 96, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+  /* line 99, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
   #team_wefoot p {
     text-align: center; }
 
-/* line 102, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 105, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .founder_picture {
   border-radius: 50%;
   width: 10em;
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 114, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 117, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #message_form {
   width: 30em;
   height: 20em; }
 
-/* line 120, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 123, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 form {
   padding: 10px; }
 
-/* line 125, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 128, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .special-name {
   color: #0099FF; }
 
-/* line 130, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 133, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #restez {
   padding-bottom: 40px; }
 
-/* line 134, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 137, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 #logo {
   border-top: solid 1px #010133; }
-  /* line 137, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+  /* line 140, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
   #logo img {
     display: block;
     margin: 0 auto;
     height: 70px;
     margin-top: 30px;
     margin-bottom: 10px; }
-  /* line 145, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+  /* line 148, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
   #logo p {
     color: #010133;
     margin-bottom: 25px; }
 
-/* line 151, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 154, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+.description-jeu-concours {
+  font-size: 25px;
+  padding-bottom: 80px; }
+
+/* line 158, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .fadeIn {
   opacity: 0;
   animation: fadeIn 10s 0.5s ease forwards;
@@ -9221,12 +9230,12 @@ form {
   /* your animation code */ }
 @-moz-keyframes fadeIn {
   /* your animation code */ }
-/* line 169, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 176, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .popover {
   text-align: center;
   /* Here you can design your popover divs */ }
 
-/* line 175, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
+/* line 182, /Users/davidgeismar/code/davidgeismar/WEFOOT/weefoot_landing/source/stylesheets/pages/_home.css.scss */
 .popover img {
   width: 80%; }
 
