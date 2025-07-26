@@ -2,10 +2,10 @@
 # the following line to use "http://" instead
 source 'https://rubygems.org'
 
-gem "middleman", "~>3.3.7"
+gem "middleman", "~> 3.3.8"
 
 # Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman-livereload", "~> 3.2.1"
 
 # For faster file watcher updates on Windows:
 gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
@@ -18,6 +18,6 @@ gem 'middleman-deploy', '~> 1.0'
 
 # Assets
 
-gem 'jquery-middleman'
+gem 'jquery-middleman', '>= 3.1.2'
 gem 'bootstrap-sass', '~> 3.3.1'
 gem 'font-awesome-sass', '~> 4.2.0'
